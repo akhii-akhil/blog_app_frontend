@@ -1,4 +1,4 @@
-import Navbar from "@/components/Navbar";
+import Navbar from "@/pages/Navbar";
 import { createClient } from "next-sanity";
 import { Inter } from "next/font/google";
 import Link from "next/link";
