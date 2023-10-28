@@ -1,4 +1,4 @@
-import Navbar from "@/Components/Navbar";
+import Navbar from "@/components/Navbar";
 import React, { useEffect } from "react";
 import { useRouter } from "next/router";
 import { createClient } from "next-sanity";
