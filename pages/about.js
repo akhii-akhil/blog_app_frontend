@@ -8,7 +8,7 @@ const about = () => {
       <section class="text-gray-600 body-font bg-[url('https://img.freepik.com/free-photo/old-camera-notebook-laptop-with-blue-pencil-cup-cappuccino-white-background_23-2147979092.jpg?size=626&ext=jpg&ga=GA1.1.2053258145.1698500146&semt=ais')] opacity-100 bg-opacity-5 bg-no-repeat bg-cover">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
     <div class="lg:w-1/2 w-full mb-10 lg:mb-0 rounded-lg overflow-hidden">
-                      <img alt="feature" class="object-cover object-center h-full w-full" src='http://localhost:3000/hero-bg.jpg' />
+                      <img alt="feature" class="object-cover object-center h-full w-full" src='https://blog-app-frontend-iota.vercel.app/hero-bg.jpg' />
     </div>
     <div class="flex flex-col flex-wrap lg:py-6 -mb-10 lg:w-1/2 lg:pl-12 lg:text-left text-center">
       <div class="flex flex-col mb-10 lg:items-start items-center">
